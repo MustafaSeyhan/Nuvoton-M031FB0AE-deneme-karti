@@ -1,2 +1,2 @@
 # Nuvoton M031FB0AE deneme kartı
- Nuvoton M031FB0AE mikrodenetleyicisi için öğrencilerimizin yapacağı deney kartına ait dökümanlardır.
+ ASELSAN M.T.A.L. Mikrodenetleyicler dersinde öğrencilerimizin Nuvoton M031FB0AE mikrodenetleyicisi için yapacağı deney kartına ait dökümanlardır.
